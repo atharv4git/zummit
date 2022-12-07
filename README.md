@@ -15,3 +15,4 @@
 	4. Classification and Regression Trees
 	5. Naive Bayes
 	6. Support Vector Machines
+4. MNIST Handwritten digits using CNN
