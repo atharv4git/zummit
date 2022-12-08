@@ -16,3 +16,5 @@
 	5. Naive Bayes
 	6. Support Vector Machines
 4. MNIST Handwritten digits using CNN
+5. Spam od Ham (under construction🏗️)
+6. Face Detection using Convolutional Neural Network
